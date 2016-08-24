@@ -1,5 +1,10 @@
 # Dynamite-Git-Example
 a throwaway repo for git tutorial
+ratatatatata
 
 
-dupa123
+
+nu to hujnia
+
+
+następna zmiana
